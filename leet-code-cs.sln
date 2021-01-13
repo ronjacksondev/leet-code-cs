@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "771-JewelsAndStones", "771-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1603-DesignParkingSystem", "1603-DesignParkingSystem\1603-DesignParkingSystem.csproj", "{90530793-8685-4403-A3E6-841367A6AEFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1486-XOROperationsInArray", "1486-XOROperationsInArray\1486-XOROperationsInArray.csproj", "{1C1EFA83-C892-439F-A00E-7F326A166317}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1486-XOROperationsInArray", "1486-XOROperationsInArray\1486-XOROperationsInArray.csproj", "{1C1EFA83-C892-439F-A00E-7F326A166317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1720-DecodeXORArray", "1720-DecodeXORArray\1720-DecodeXORArray.csproj", "{66A8C677-4798-45CF-909F-FB2EB240E527}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{1C1EFA83-C892-439F-A00E-7F326A166317}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C1EFA83-C892-439F-A00E-7F326A166317}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C1EFA83-C892-439F-A00E-7F326A166317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A8C677-4798-45CF-909F-FB2EB240E527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A8C677-4798-45CF-909F-FB2EB240E527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A8C677-4798-45CF-909F-FB2EB240E527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A8C677-4798-45CF-909F-FB2EB240E527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
